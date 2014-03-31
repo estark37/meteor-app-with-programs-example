@@ -1,3 +1,4 @@
 {
-  "type": "traditional"
+  "type": "traditional",
+  "client": "my-program-client"
 }
